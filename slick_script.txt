@@ -1,0 +1,9 @@
+<!-- visual_slide -->
+<script>
+$(document).ready(function(){
+  $('#visual1').slick({
+	autoplay : true,
+	dots: true,
+  });
+});
+</script>

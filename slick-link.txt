@@ -1,0 +1,4 @@
+<!-- slick -->
+<link rel="stylesheet" type="text/css" href="/theme/basic/css/slick.css"/>
+<link rel="stylesheet" type="text/css" href="/theme/basic/css/slick-theme.css"/>
+<script type="text/javascript" src="/theme/basic/js/slick.min.js"></script>
